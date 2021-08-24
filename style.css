@@ -1,12 +1,9 @@
 body {
-   background-color: lavender;
+   margin: 40px;
 }
 
-h1 {
-   color: cornflowerblue;
-   transition: color 0.3s ease-in-out;
-}
-
-.clicked {
-   color: tomato;
+#login-form input {
+   width: auto;
+   height: 50px;
+   font-size: 23px;
 }
