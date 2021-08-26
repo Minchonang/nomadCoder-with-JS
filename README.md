@@ -1,2 +1,2 @@
-# clone_Momentum
-clone coding with chrome app 'Momentum'.
+# nomad coder with JS
+Studying JavaScript
